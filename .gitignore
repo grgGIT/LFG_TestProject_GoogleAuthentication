@@ -1,0 +1,7 @@
+.qodo
+./server/.env
+./server/.env.example
+./client/.env
+./client/.env.example
+./client/node_modules
+./server/node_modules
